@@ -1,5 +1,5 @@
-# Single Particle Breakage
-Preliminary designs for a single particle breakage apparatus, developed in FreeCAD (0.17).
+# A modified CBR apparatus
+The project aims to modify and expand upon the conventional California Bearing Ratio (CBR) test. 
 
 ![Alt text](Apparatus.jpg "Apparatus.jpg")
 
